@@ -1,7 +1,7 @@
-grocy-barbeque-browser
-# Grocy with Barbeque Browser
+grocy-barbecue-browser
+# Grocy with Barbecue Browser
 
-Based on "Barbeque Brwoser - Integrate with Grocy" at https://programmerbird.com/barbeque/grocy/
+Based on "Barbecue Brwoser - Integrate with Grocy" at https://programmerbird.com/barbecue/grocy/
 
 ## 100 - Introduction
 
